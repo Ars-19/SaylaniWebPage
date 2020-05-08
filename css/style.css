@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+    font-size: 14px;
+}
+ /* Header Section  */
+.r1{
+    background-color: #316dc3;
+    padding: 10px 50px 3px 20px;
+}
+.img{
+    margin-left: 50px;
+}
+.r2{
+    background-color: white;
+    height: fit-content;
+}
+.aa{
+    background-color: white;
+    color: #06672d;
+    border-radius: 0;
+    border: 1px solid #06672d;
+    font-size: 11px;
+    padding: 5px 10px;
+}
+ /* Slider Section  */
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+/* Marquee  */
+.mar{
+    padding: 10px 40px;
+}
+.marq{
+    background-color: #316dc3;
+}
+.sp-bl{
+    color: blue;
+}
+.sp-gr{
+    color: green;
+}
+
+/* Introduction Section  */
+.r11{
+    padding-top: 80px;
+}
+.bll{
+    color: #316dc3;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+.grr{
+    color: #1f7834;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+.box{
+    padding-left: 40px;
+    border-bottom: 2px solid green;
+    margin: 15px;
+}
+.r22 img{
+    height: 40px;
+}
+.r33{
+    margin : 20px 60px 20px 60px;
+}
+p{
+    color: #5a5d61;
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+/* WHAT WE ARE DOING  */
+.r333{
+    background-color: #f7f8fa;
+    padding: 20px 120px 20px 120px;
+}
+.boxes{
+    height: 185px;
+    width: 360px;
+    color: black;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.dd{
+    width: 70px;
+    margin-top: 20px;}
+.tex{
+    color: #316dc3;
+    font-size: 20px;
+    text-align: center;
+}
+
+ /* Mission DIV  */
+
+.hed{
+    color: #316dc3;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.ull{
+    border-bottom: 2px solid #06672d;
+    width: 40px;
+}
+.lbox{
+    background-color: #f7f8fa;
+    height: 73px;
+    color: #06672d;
+    border: 2px solid #eee;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.ii{
+    width: 40px;
+    margin-right: 20px;
+}
+.tt{
+    padding-top: 3px;
+    display: inline-block;
+    color: #316dc3;
+    font-size: 16px;
+    font-weight: bold;
+}
+.marrq{
+    text-align: start;
+    border-top: #eee 1px solid;
+    height: 220px;
+    padding-right: 70px;
+}
+
+
+/* Gallery div  */
+.abbb div{
+    height: 120px;
+    margin-left: 25px;
+}
+/* Useful link div  */
+.ff{
+    margin-top: 60px;
+    background-color: #25272e;
+    color: rgb(124, 121, 121);
+    padding-top: 80px;
+    line-height: 5px;
+    padding-bottom: 80px;
+}
+.ppp p i{
+    color: rgb(0, 192, 0);
+    transform: scaleX(-1);
+    font-size: 13px;
+}
+.ulll{
+    border-bottom: 2px solid rgb(124, 121, 121);
+}
+.iii i{
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #316dc3;
+}
+/* Bottom Div  */
+.ddd{
+    background-color: #316dc3;
+    padding-left: 13.5rem;
+}
+.ddd p{
+    color: white;
+    font-size: 12px;
+}
+
+/* DropDown Menu  */
+.mynav{
+    padding-left: 350px;
+}
+.mm{
+    font-size: 15px;
+    color: #747875;
+}
+.mm:hover{
+    background-color: #316dc3;
+    color: #eee;
+    padding-left: 30px;
+    transition: ease .4s;
+}
+.kk{
+    border: none;
+    transition: ease .3s;
+}
+.ss{
+    text-decoration: none;
+    margin-left: 5px;
+    padding: 12px;
+    border-radius: 30px;
+}
+.ss:hover{
+    background-color: #316dc3;
+    color: #eee;
+    transition: ease 0.3s;
+}
